@@ -23,6 +23,6 @@ for i in range(1, 5):
     
 
 media_idade = soma_idade / 4
-print(f"A média de idade é: {media_idade}")
-print(f"O homem mais velhor é: {homem_maisvelho_nome} e se possui: {homem_maisvelho_idade} anos.")
+print(f"A média de idade do grupo é: {media_idade}")
+print(f"O homem mais velho é: {homem_maisvelho_nome} e ele possui: {homem_maisvelho_idade} anos.")
 print(f"{contador_de_mulheres_jovens} mulheres são menores de 20 anos!")
