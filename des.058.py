@@ -1,4 +1,4 @@
-#Esse programa é um jogo de adivinhação. O computador escolhe um número aleatório entre 0 e 10 e o jogador tem que adivinhar qual foi o número escolhido.
+#Esse programa é um jogo de adivinhação. O computador escolhe um número aleatório entre 0 e 10 e o jogador tem que adivinhar qual foi o número escolhido.s
 import random
 tent = 0
 numero_aleatorio = random.randint(0, 10)
